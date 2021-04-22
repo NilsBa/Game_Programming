@@ -12,3 +12,8 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+Packaged_Game.zip
+Packaged_Game/WindowsNoEditor/Engine/Extras/Redist/en-us/UE4PrereqSetup_x64.exe
+Packaged_Game/WindowsNoEditor/Game_Programming.exe
+Packaged_Game/WindowsNoEditor/Game_Programming/Content/Paks/Game_Programming-WindowsNoEditor.pak
+Packaged_Game/WindowsNoEditor/Manifest_NonUFSFiles_Win64.txt
