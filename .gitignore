@@ -18,3 +18,4 @@ Packaged_Game/WindowsNoEditor/Game_Programming.exe
 Packaged_Game/WindowsNoEditor/Game_Programming/Content/Paks/Game_Programming-WindowsNoEditor.pak
 Packaged_Game/WindowsNoEditor/Manifest_NonUFSFiles_Win64.txt
 Build/WindowsNoEditor/FileOpenOrder/EditorOpenOrder.log
+Build/WindowsNoEditor/FileOpenOrder/CookerOpenOrder.log
